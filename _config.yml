@@ -1,0 +1,10 @@
+---
+project:
+  name: theme test
+  owner: ellemenno
+  repo: https://github.com/ellemenno/programming-pages-test
+  version: 0.1
+
+plugins:
+  - jekyll-remote-theme
+remote_theme: pixeldroid/programming-pages
