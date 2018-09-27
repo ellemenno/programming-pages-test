@@ -28,9 +28,9 @@ This site is a simple example of the fast-start [remote-theme][remote-theme] met
 
 
 
-[file-config]: https://github.com/ellemenno/programming-pages-test/blob/master/_config.yml "Jekyll configuration for a remote theme site"
-[file-gemfile]: https://github.com/ellemenno/programming-pages-test/blob/master/Gemfile "Gemfile to use with Bundler to install and run locally"
-[file-index]: https://github.com/ellemenno/programming-pages-test/blob/master/index.md "site homepage source (markdown)"
+[file-config]: https://raw.githubusercontent.com/ellemenno/programming-pages-test/master/_config.yml "Jekyll configuration for a remote theme site"
+[file-gemfile]: https://raw.githubusercontent.com/ellemenno/programming-pages-test/master/Gemfile "Gemfile to use with Bundler to install and run locally"
+[file-index]: https://raw.githubusercontent.com/ellemenno/programming-pages-test/master/index.md "site homepage source (markdown)"
 [gh-pages]: https://pages.github.com/ "Websites for you and your projects"
 [new-repo]: https://github.com/new "Create a new repository"
 [pub-source]: https://help.github.com/articles/configuring-a-publishing-source-for-github-pages/#enabling-github-pages-to-publish-your-site-from-master-or-gh-pages "Enabling GitHub Pages to publish your site from master"
